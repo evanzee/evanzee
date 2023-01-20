@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @syauqi
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Backend
+- 🌱 Still learning on my path
 
 
 
 
 
 <!---  --->
-i'm very new in programming
+
