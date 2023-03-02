@@ -1,9 +1,9 @@
 Hi there 👋
 
 
-- 👀 I’m interested in Backend and Mobile development
+- 👀 I’m interested in Web Back-end Development
 - 🌱 Currently learning Back-End fundamentals and Databases
-- 🤔 I’m looking for help with coding
+- 🤔 Node and Go Fanboy
 - ⚡ Formula 1 enthusiast
 
 
